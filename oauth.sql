@@ -1,0 +1,1 @@
+insert into senseplay_tag(tag,total,inputtime)VALUE ('1222223',23,0);

@@ -1,0 +1,5 @@
+#! /bin/bash
+declare -A ver_list=(
+ ["rbac_version"]=1
+ ["200"]="2"
+)
